@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.shaman</groupId>
   <artifactId>shaman-example</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1-RELEASE</version>
   <versioning>
     <versions>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1-RELEASE</version>
     </versions>
-    <lastUpdated>20160610115520</lastUpdated>
+    <lastUpdated>20160610235925</lastUpdated>
   </versioning>
 </metadata>
